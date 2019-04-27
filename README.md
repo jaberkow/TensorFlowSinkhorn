@@ -14,5 +14,5 @@ This repository contains an implementation of the sinkhorn algorithm (1) in Tens
 
 # Further Reading
 
-1. 
-2. Patrini, Giorgio, et al. "Sinkhorn autoencoders." *arXiv preprint arXiv:1810.01118 (2018)*. https://arxiv.org/abs/1810.01118
+1. Cuturi, Marco. "Sinkhorn distances: Lightspeed computation of optimal transport." *Advances in neural information processing systems.* (2013). http://papers.nips.cc/paper/4927-sinkhorn-distances-lightspeed-computation-of-optimal-transport
+2. Patrini, Giorgio, et al. "Sinkhorn autoencoders." *arXiv preprint arXiv:1810.01118* (2018). https://arxiv.org/abs/1810.01118
