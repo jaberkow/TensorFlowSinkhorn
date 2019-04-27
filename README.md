@@ -10,6 +10,9 @@ This repository contains an implementation of the sinkhorn algorithm (1) in Tens
 # Requirements
 
 * `tf_wasserstein.py` requires TensorFlow 1.1 or greater and all dependencies therein
-* `swiss_roll_demo.ipynb`uses [TensorFlow 2](https://www.tensorflow.org/alpha/guide/effective_tf2)
+* `swiss_roll_demo.ipynb`uses [TensorFlow 2](https://www.tensorflow.org/alpha/guide/effective_tf2) and matplotlib
 
 # Further Reading
+
+1. 
+2. https://arxiv.org/abs/1810.01118
