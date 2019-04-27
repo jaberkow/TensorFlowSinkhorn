@@ -1,3 +1,15 @@
 # Description
+
+This repository contains an implementation of the sinkhorn algorithm (1) in TensorFlow so that it can differentiated through.
+
+## Contents
+
+* `tf_wasserstein.py` contains the necessary tensorflow functions, notably the function `sinkhorn_loss` that computes the sinkhorn distance
+* `swiss_roll_demo.ipynb` contains an example use of the sinkhorn_loss, implementing a sinkhorn autoencoder (2) on the swiss roll dataset
+
 # Requirements
+
+* `tf_wasserstein.py` requires TensorFlow 1.1 or greater and all dependencies therein
+* `swiss_roll_demo.ipynb`uses [TensorFlow 2](https://www.tensorflow.org/alpha/guide/effective_tf2)
+
 # Further Reading
