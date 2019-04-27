@@ -15,4 +15,4 @@ This repository contains an implementation of the sinkhorn algorithm (1) in Tens
 # Further Reading
 
 1. 
-2. https://arxiv.org/abs/1810.01118
+2. Patrini, Giorgio, et al. "Sinkhorn autoencoders." *arXiv preprint arXiv:1810.01118 (2018)*. https://arxiv.org/abs/1810.01118
